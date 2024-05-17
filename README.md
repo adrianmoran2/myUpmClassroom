@@ -2,6 +2,8 @@
 
 Este repositorio contiene el código fuente de la práctica de Fundamentos de Ingeniería de Software.
 
+Prooyecto hecho en 2022
+
 ## Dependencias
 
 Para realizar este proyecto hemos usado: <br>
